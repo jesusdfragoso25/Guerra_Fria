@@ -1,0 +1,33 @@
+BODY{
+	BACKGROUND-COLOR:#633;
+}
+
+p{
+color:#FFF;
+font-size:17px;
+font-family:"Comic Sans MS";
+}
+ul{
+color:#FFF;	
+list-style:none;
+margin:0;
+padding:0;
+width:1340px;
+height:52px;
+background:#999;
+
+}
+li{
+float:left;
+}
+a{
+color:#000;
+text-decoration:none;
+Font-family:"Palatino Linotype";
+Font-size:16px;
+display:block;
+padding:18px 40px;
+}
+p{
+font-family:"Comic Sans MS";
+}
